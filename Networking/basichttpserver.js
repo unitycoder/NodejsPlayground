@@ -1,5 +1,6 @@
 // basic HTTP server
 // https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+// usage: http://localhost:7777
 
 var http = require("http");
 var PORT = 7777;
